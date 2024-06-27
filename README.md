@@ -1,16 +1,22 @@
-## Hi there 👋
+## Olá! Nayara aqui 🙋🏿‍♀️
+Rumo a dev 
 
-<!--
-**Nayara91/Nayara91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩🏿‍🏫 **Professora** de Informática
+- 👩🏿‍💻 Constante aprendizado em tecnologia
+- 👩🏿‍🎨 Apaixonada por todo tipo de arte
+- 🖥️ Focada em:
+  
+            <div style="display: inline"> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
+            <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+          
+            <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+          
+            <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+          </div>
 
-Here are some ideas to get you started:
+  ##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você também me encontra em:
+  <a href="https://www.linkedin.com/in/nayara-p-borges/"><img src="(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"></a>
+          
