@@ -5,10 +5,7 @@ Moro no interior de São Paulo. Sou Instrutora e Técnica de Informática, forma
 - 👩🏿‍💻 Constante aprendizado em tecnologia
 - 👩🏿‍🎨 Apaixonada por todo tipo de arte e tecnologia
 
-<img src="https://tenor.com/pt-BR/view/hacker-hacker-man-hacking-hackers-hack-gif-23864910">  
-- 🖥️ Focada em:
-
-## Tecnologias e Ferramentas
+## 🖥️ Tecnologias e Ferramentas
 
 <div style"display: inline">
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -17,7 +14,7 @@ Moro no interior de São Paulo. Sou Instrutora e Técnica de Informática, forma
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />         
 </div>
 
-## Aprendendo
+## 👩🏿‍💻 Aprendendo
 
 <div style"display: inline">
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
